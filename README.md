@@ -1,7 +1,8 @@
 # student-bio
 #USER STORY
 
-    // As a student, I want to create a biography page that includes an image, a paragraph about me, and my contact information.
+    // AS a student, 
+    // I WANT to create a biography page that includes an image, a paragraph about me, and my contact information.
 
 ##Acceptance Criteria
 
